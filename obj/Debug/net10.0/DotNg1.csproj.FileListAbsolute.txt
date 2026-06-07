@@ -34,3 +34,4 @@ D:\Arquivos de programação\DotNg1\DotNg1\obj\Debug\net10.0\ref\DotNg1.dll
 D:\Arquivos de programação\DotNg1\DotNg1\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Arquivos de programação\DotNg1\DotNg1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Arquivos de programação\DotNg1\DotNg1\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquivos de programação\DotNg1\DotNg1\obj\Debug\net10.0\DotNg1.sourcelink.json

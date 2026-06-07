@@ -1,3 +1,5 @@
+using DotNg1.Routes;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,7 +18,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapGet("Hello World", () => "Hello World!");
+app.MapPeopleRoutes();
 
 app.Run();
 
